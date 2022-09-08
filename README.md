@@ -15,6 +15,8 @@
 - 📝 Learning Blockchain and Smart contract Security
 	
 - 🔖 Project
+
+	- Automated Vulnerability Detection Models for Ethereum Smart Contracts
 	
 - 📧 hongbangltv@gmail.com
 
