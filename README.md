@@ -69,10 +69,11 @@
 
 <!-- ### Blogs posts -->
 
-<palign="center ><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<p align="center" >&nbsp;> <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=bombbom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="bombbom" 
+    bg_color=#808080/>
+</p>
 	
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bombbom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="bombbom" /></p>
