@@ -67,6 +67,13 @@
 
 </p>
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bombbom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="bombbom" /></p>
+
+	
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bombbom&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="bombbom" /></p>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bombbom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="bombbom" /></p>
+
+
