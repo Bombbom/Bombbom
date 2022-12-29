@@ -26,7 +26,7 @@
 	
 	- Toeic
 	
-- 📧 hongbangltv@gmail.com
+<!-- - 📧 hongbangltv@gmail.com
 
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
@@ -67,7 +67,7 @@
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
-</p>
+</p> -->
 <!-- 
 <!-- ### Blogs posts -->
 
