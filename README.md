@@ -24,8 +24,11 @@
 
 - 🔤 English
 	
-	- Toeic
 	
  - 📧 hongbangltv@gmail.com
 
 
+- 📖 My Repo:
+	1. mathematics
+	2.
+	3. 
