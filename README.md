@@ -20,7 +20,9 @@
 
 	- :pushpin: Automated Vulnerability Detection Models for Ethereum Smart Contracts
 	
-	- :pushpin: Blockchain hackathon (VBI-UIT)
+	- :pushpin: Blockchain for Federated Learning
+	
+	
 
 - 🔤 English
 	
