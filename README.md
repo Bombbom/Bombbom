@@ -16,7 +16,7 @@
 
 ## Techniques
 
-<img src="Image/kid-programmer-learn-coding-on-600nw-1744175264.webp" width=40% align="right">
+<img src="Image/Coding_Study_Art.gif" width=50% align="right">
 
 * <u>**Networking:**</u> TCP/IP, DNS, VPNs, SSH, VLANs, NAT, DHCP
 * <u>**Security Technology:**</u> Firewalls, IDS/IPS, SIEM, VPN, Cryptography(RSA, AES)
