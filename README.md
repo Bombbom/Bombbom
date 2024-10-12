@@ -35,7 +35,7 @@
 ## My Projects
 
 
-| Projects |  Level | Description | Technologies|
+| Projects/Labs |  Level | Description | Technologies|
 |----------|--------|-------------|-------------|
 | [Programming: Django Blog Application](https://github.com/Bombbom/Blog-application) |  Beginner |I designed and developed a blog application that allows users to explore and view detailed posts efficiently. The project includes SEO-friendly URLs, pagination, and a comment feature to boost user engagement. Additionally, I integrated a third-party tagging system for enhanced content categorization and implemented full-text search to improve search functionality. The application was deployed using Docker Compose.|Python, Django Framework, Docker, PostgreSQL databases.|
 | [Programming: Social Web Application with Django and React](https://github.com/Bombbom/social_app_with_django_react) | Pre-Intermediate  |This project combines Django REST Framework (DRF) for the backend and React for the frontend to build a social application. The application implements essential features such as user authentication, post creation, liking, commenting, and associated CRUD operations. The frontend in React interacts with the backend API built using DRF, making the application efficient and scalable.| Python, Django Rest Framework, Pytest,  React, Redis, Docker, PostgreSQL databases.|  
