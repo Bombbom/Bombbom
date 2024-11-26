@@ -28,11 +28,13 @@
   * Knowledgeable in OWASP Top 10 and basic computer networking.
 
 ----
+
 <!--
 | Linux | Ubuntu | Kali | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 |----------|----------|----------|----------|----------|----------|----------|----------|
 | <img src="Image/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="Image/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="Image/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="Image/meta.png" alt="msf" width="85" height="55" />|<img src="Image/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="Image/burp.svg" alt="burp" width="85" height="55" />|<img src="Image/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="Image/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 --!>
+
 ----
 ## My Projects
 
