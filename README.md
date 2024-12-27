@@ -35,7 +35,7 @@
 | <img src="Image/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="Image/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="Image/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="Image/meta.png" alt="msf" width="85" height="55" />|<img src="Image/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="Image/burp.svg" alt="burp" width="85" height="55" />|<img src="Image/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="Image/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 
 -->
-
+<!--
 ----
 ## My Projects
 
@@ -48,3 +48,6 @@
 | [Network Security: Security Monitoring using Wazuh](https://github.com/Bombbom/Network_Security/blob/main/Security_Monitoring.md) | Beginner -> Pre-Intermediate | Learn how to set up zero-cost security automation, incident response, file integrity monitoring systems, and cloud security monitoring | Wazuh, Suricata, ... |
 | [Programming: Django Movies Stores Projects](https://github.com/Bombbom/django_moviesstore) | Beginner | Learning a basic Django Framework with projects. Admin site to manage movies. User can finding movie, read and write comment. Additional, User can buy movie in store.| Django Framework, Bootstrap v5, HTML, SQLite3 |
 | Interacting With MISP’s API to detect IoCs with Wazuh Alerts| Beginner | Integrated MISP and Wazuh to streamline network security threat detection, eliminating the need for manual correlation between Wazuh alerts and MISP for identifying potential Indicators of Compromise (IoCs). The process involved identifying eligible Wazuh rules, developing a Python integration script, modifying Wazuh’s ossec.conf to include the MISP integration, and creating custom rules within MISP to enhance detection capabilities.| Python, Wazuh, MISP| 
+
+
+-->
