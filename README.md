@@ -39,11 +39,43 @@
 - SQL: PostgreSQL, MySQL
 - NoSQL: MongoDB
 
+
 **Other Skills:**
 - OOP, Data Structures & Algorithms
 - Multithreading, Multiprocessing, Async programming
 - RESTful API design & documentation
 - Basic networking & security (OWASP Top 10)
+
+
+
+## 🚩 Featured Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td>🚀 <b>Project Name 1</b></td>
+    <td>Short description or goal of the project.</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/></td>
+    <td><b>⭐ Highlight</b></td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Project Name 2</b></td>
+    <td>Short description or goal of the project.</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="24"/></td>
+    <td><b>🔒 Security Focus</b></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Project Name 3</b></td>
+    <td>Short description or goal of the project.</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24"/></td>
+    <td><b>⚡ Performance</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -52,3 +84,19 @@
 - Email: your.email@example.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
+---
+
+<div align="center">
+  <b>Tech Stack & Tools</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/>
+</div>
+
+---
