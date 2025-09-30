@@ -15,8 +15,9 @@
 
 
 **Programming Languages:**
+  - Go, Python
   - C# (.NET, ASP.NET Core)
-  - Python
+
 
 
 **DevOps & Cloud:**
