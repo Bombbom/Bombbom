@@ -1,4 +1,3 @@
-<img width="512" height="640" alt="image" src="https://github.com/user-attachments/assets/adeab153-2aeb-477c-917f-9d932b925fe9" />
 ## Hi there, I'm Bang 👋
 
 🚀 **Backend Developer | DevOps Enthusiast | Cloud Learner (AWS)**
